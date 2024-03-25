@@ -1,10 +1,10 @@
 ![BizCardX Extracting Business Card Data with OCR](https://github.com/BalaKrishnanCodeSpace/BizCardX-Extracting-Business-Card-Data-with-OCR/blob/4028c5b17f35961a9ae91620ad464a04df8c436b/Misc/Heading1.png)
-
-
+</br></br></br>
+___
 # Introduction
 BizCardX is a powerful tool designed to help you effortlessly extract essential information from business cards. Whether you're networking at events, receiving business cards from clients, or simply organizing your contacts, BizCardX makes it easy to digitize and manage business card data.
 </br></br></br>
-
+___
 # Features
 *  <ins><strong>Image Upload:</strong></ins> Simply upload an image of a business card, and BizCardX will extract relevant information automatically.
 
@@ -17,24 +17,34 @@ BizCardX is a powerful tool designed to help you effortlessly extract essential 
 *  <ins><strong>Simple and Intuitive:</strong></ins> With a clean and intuitive user interface, BizCardX makes managing business card data a breeze.
 </br></br></br>
 
+___
 # Installation
-#### Clone the repository:
-```bash
-#Copy code
+*  ### <ins>Clone the repository:</ins>
+```python
 git clone https://github.com/BalaKrishnanCodeSpace/Bizcard.git
 ```
+</br>
 
-bash
-Install the required dependencies:
-Copy code
+*  ### <ins>Install the required dependencies:</ins>
+```python
 pip install -r requirements.txt
-Usage
-Run the Streamlit application:
-bash
-Copy code
+```
+</br>
+
+*  ### <ins>Usage</ins>
+##### Run the Streamlit application:
+```python
 streamlit run app.py
-Select one of the following options:
-Home: Welcome page with information about BizCardX.
+```
+</br>
+
+
+___
+# Interface
+
+### Home: 
+
+Welcome page with information about BizCardX.
 Extract: Upload a business card image to extract information.
 Modify: View, update, or delete existing data from the database.
 Technologies Used
