@@ -1,5 +1,16 @@
 ![BizCardX Extracting Business Card Data with OCR](https://github.com/BalaKrishnanCodeSpace/BizCardX-Extracting-Business-Card-Data-with-OCR/blob/4028c5b17f35961a9ae91620ad464a04df8c436b/Misc/Heading1.png)
 </br></br></br>
+
+### Table of Contents
+- [Introduction](#introduction)
+- [Features](#features)
+- [Installation](#installation)
+- [Interface](#interface)
+- [Technologies Used](#technologies-used)
+- [License](#license)
+- [Acknowledgements](#acknowledgements)
+</br></br>
+
 ___
 # Introduction
 BizCardX is a powerful tool designed to help you effortlessly extract essential information from business cards. Whether you're networking at events, receiving business cards from clients, or simply organizing your contacts, BizCardX makes it easy to digitize and manage business card data.
@@ -83,13 +94,12 @@ ___
 *  EasyOCR
 *  OpenCV
 *  Pandas
-</br></br></br>
+</br></br>
 
 ___
 # License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-</br></br></br>
+</br></br>
 
 ___
 # Acknowledgements
